@@ -1,0 +1,18 @@
+img {
+  width: 300px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.wrapper:hover {
+  opacity: 0.9;
+}
+
+#btn {
+  margin: 50px 0;
+  cursor: pointer;
+}
+
+
